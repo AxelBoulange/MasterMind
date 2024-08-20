@@ -1,0 +1,17 @@
+C:\Users\lemai\source\repos\MasterMind\MasterMind\bin\Debug\net6.0-windows\MasterMind.exe
+C:\Users\lemai\source\repos\MasterMind\MasterMind\bin\Debug\net6.0-windows\MasterMind.deps.json
+C:\Users\lemai\source\repos\MasterMind\MasterMind\bin\Debug\net6.0-windows\MasterMind.runtimeconfig.json
+C:\Users\lemai\source\repos\MasterMind\MasterMind\bin\Debug\net6.0-windows\MasterMind.dll
+C:\Users\lemai\source\repos\MasterMind\MasterMind\bin\Debug\net6.0-windows\MasterMind.pdb
+C:\Users\lemai\source\repos\MasterMind\MasterMind\obj\Debug\net6.0-windows\MasterMind.csproj.AssemblyReference.cache
+C:\Users\lemai\source\repos\MasterMind\MasterMind\obj\Debug\net6.0-windows\MasterMind.Form1.resources
+C:\Users\lemai\source\repos\MasterMind\MasterMind\obj\Debug\net6.0-windows\MasterMind.csproj.GenerateResource.cache
+C:\Users\lemai\source\repos\MasterMind\MasterMind\obj\Debug\net6.0-windows\MasterMind.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lemai\source\repos\MasterMind\MasterMind\obj\Debug\net6.0-windows\MasterMind.AssemblyInfoInputs.cache
+C:\Users\lemai\source\repos\MasterMind\MasterMind\obj\Debug\net6.0-windows\MasterMind.AssemblyInfo.cs
+C:\Users\lemai\source\repos\MasterMind\MasterMind\obj\Debug\net6.0-windows\MasterMind.csproj.CoreCompileInputs.cache
+C:\Users\lemai\source\repos\MasterMind\MasterMind\obj\Debug\net6.0-windows\MasterMind.dll
+C:\Users\lemai\source\repos\MasterMind\MasterMind\obj\Debug\net6.0-windows\refint\MasterMind.dll
+C:\Users\lemai\source\repos\MasterMind\MasterMind\obj\Debug\net6.0-windows\MasterMind.pdb
+C:\Users\lemai\source\repos\MasterMind\MasterMind\obj\Debug\net6.0-windows\MasterMind.genruntimeconfig.cache
+C:\Users\lemai\source\repos\MasterMind\MasterMind\obj\Debug\net6.0-windows\ref\MasterMind.dll
